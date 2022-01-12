@@ -1,6 +1,7 @@
 # 😄 Welcome To My GitHub!
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=qooktree&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=qooktree&layout=compact&theme=dracula)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qooktree)
 
 </br>
 
