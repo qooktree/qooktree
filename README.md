@@ -40,6 +40,8 @@
 
 # ▎Stuffs 
 <a href="https://www.notion.so/011f1d99aca24b17bbf0e33690820d7d?v=b6c6a8c2cc65471084d7d2d237c207dc"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+ 
+- Programmers : https://programmers.co.kr/pr/qooktree_8883
 
 <!--
 - 🔭 I’m currently working on ...
